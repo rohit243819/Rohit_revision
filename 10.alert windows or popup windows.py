@@ -23,4 +23,8 @@ print(alert_window.text)
 
 # or alert window using cancel button
 
+a=123
+b=234
+print(a,b)
+
 alert_window.dismiss()

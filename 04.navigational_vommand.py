@@ -20,4 +20,10 @@ driver.refresh()
 time.sleep(3)
 
 
+
+a=123
+b=234
+print(a,b)
+
+
 driver.close()

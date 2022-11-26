@@ -13,6 +13,10 @@ driver.maximize_window()
 driver.find_element(By.LINK_TEXT,"Digital downloads").click()
 
 
+a=123
+b=234
+print(a,b)
+
 # #find number of links on page:
 # links=driver.find_elements(By.TAG_NAME,"a")
 # print("total no of links:",len(links))

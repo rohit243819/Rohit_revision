@@ -12,4 +12,9 @@ driver.get(("https://opensource-demo.orangehrmlive.com/"))
 abc=driver.current_url
 print(abc)
 
+
+a=123
+b=234
+print(a,b)
+
 driver.close()

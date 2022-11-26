@@ -49,3 +49,8 @@ for opt in alloptions:
     if opt.text=="India":
         opt.click()
         break
+
+
+a=123
+b=234
+print(a,b)
